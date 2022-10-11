@@ -11,3 +11,7 @@
 > * Parameter cannot have question mark and initializer
 > * TS does implicit typecasting
 > * Structure based typing in also known as Duck-Typing
+
+### Commands for ease
+
+> * tsc test.ts --out output-file.js --watch
